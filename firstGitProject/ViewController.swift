@@ -48,6 +48,8 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         // nganu
         print("Nganu")
+        
+        // test ah
     }
 
     // MARK: - ARSCNViewDelegate
