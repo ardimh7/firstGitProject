@@ -45,6 +45,9 @@ class ViewController: UIViewController, ARSCNViewDelegate {
         
         // Pause the view's session
         sceneView.session.pause()
+        
+        // nganu
+        print("Nganu")
     }
 
     // MARK: - ARSCNViewDelegate
